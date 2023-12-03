@@ -23,7 +23,7 @@ public class ContaTerminal {
     }
 
     /**
-     * @return Cria uma conta para um novo usuario e retorna uma String informando se a criação for bem sucedida
+     * @return Cria uma conta bancaria para um novo usuario
      * */
     public void criarConta()
     {
